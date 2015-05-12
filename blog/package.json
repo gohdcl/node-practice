@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A blog built as a web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "express":"*"
+  }
+}
